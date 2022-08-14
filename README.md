@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bcodin
+- 👋 Hi, I’m @active
+Bcodin
 - 👀 I’m interested in web developer 
 - 🌱 I’m currently learning HTML, CSC, JavaScript 
 - 💞️ I’m looking to collaborate on JavaScript 
